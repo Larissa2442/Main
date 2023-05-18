@@ -1,5 +1,5 @@
 # Main
-Este proyecto tara de aprender a como subir doc. en el git desde diferentes cuenta. 
+Este proyecto se trata de aprender a como subir doc. en el git, desde diferentes cuenta. 
 •	Crear un repositorio en GitHub y nombra la rama principal como "main".
 •	En el archivo README.md incluir una descripción del proyecto y las instrucciones plasmadas en este papel.
 •	Crear tres ramas nuevas a partir de la rama principal, nombradas como "funcionalidad1", "funcionalidad2" y "funcionalidad3".
